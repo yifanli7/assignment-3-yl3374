@@ -1,0 +1,17 @@
+---
+title: "Assignment 3 index"
+author: "Yifan Li"
+date: "2021/3/1"
+output: html_document
+---
+
+## Collaborators and github accounts
+
+
+Yifan Li (https://github.com/yifanli7) 
+
+Shiyu Xu (https://github.com/ssyxu)
+
+<br>
+
+![Assignment](https://www.abassignmenthelp.com/img/banner-bg.png)
