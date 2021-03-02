@@ -1,0 +1,14 @@
+---
+title: "Shiyu"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### About me
+  
+* Shiyu is a first-year MS student at Cornell University Department of Animal Science. 
+* Shiyu is currently working on the extraction of microalgal protein  as animal feed / human food. 
+* She loves animals in general and loves going into the nature in search of animals, but she doesn't own any pet herself. 
